@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "^1.48.3",
+    "@dotenvx/dotenvx": "^1.48.4",
     "@react-google-maps/api": "^2.20.7",
     "next": "^15.5.0",
     "react": "19.1.0",
