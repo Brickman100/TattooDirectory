@@ -13,7 +13,7 @@
     "@react-google-maps/api": "^2.20.7",
     "next": "^15.5.0",
     "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react-dom": "19.1.1",
     "use-places-autocomplete": "^4.0.1"
   },
   "devDependencies": {
